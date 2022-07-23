@@ -1,1 +1,1 @@
-## Lista de Exercicios em sequencial
+## Lista de Exercicios em sequencial - linguagem c
